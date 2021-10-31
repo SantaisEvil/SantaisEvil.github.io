@@ -1,0 +1,28 @@
+.leftside,.rightside{
+	
+	height:100vh;
+	width:100%;
+}
+
+.leftside{
+	background : #ADD8E6;
+	overflow: auto;
+}
+
+.rightside{
+	background: whitesmoke;
+	overflow: auto;
+}
+
+img{
+	max-height: auto;
+	max-width: 100%;
+}
+
+.inline-block{
+	display:  inline-block;
+}
+
+body{
+	background-color: whitesmoke;
+}
